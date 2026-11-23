@@ -2,7 +2,7 @@ Package: RcisTarget
 Type: Package
 Title: RcisTarget Identify transcription factor binding motifs enriched on a
     list of genes or genomic regions
-Version: 1.33.3
+Version: 1.34.0
 Date: 2024-03-02
 Authors@R: c(
     person("Sara", "Aibar", role = "aut"),
